@@ -23,7 +23,7 @@ https://www.google.com/maps
 etc.
 
 <h1>GIF OF PAGE</h1>
-<img src="/img/Restaurant-Web-Site-Google-Chrome-2023-09-14-21-57-49.gif>
+<img src="/img/Restaurant-Web-Site-Google-Chrome-2023-09-14-21-57-49.gif">
 
 <h1> RESPONSIVE GIF</h1>
-<img src="/img/Responsive_1.gif>
+<img src="/img/Responsive_1.gif">
